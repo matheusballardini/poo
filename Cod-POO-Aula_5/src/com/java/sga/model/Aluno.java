@@ -22,7 +22,7 @@ public class Aluno extends Pessoa {
             return turma;
     }
     
-        public void setListaNotas(String listaNotas) {
+        public void setListaNomes(String listaNotas) {
             this.listaNotas = listaNotas ;
     }
     
